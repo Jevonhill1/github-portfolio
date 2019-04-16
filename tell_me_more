@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <title>Page Title</title>
+    </head>
+    <body>
+      <nav>
+        <a href="all_about_me.html">All About You</a>
+      </nav>
+        <h1>All About You!</h1>
+        
+        <div>
+          <label for="name">First Name</label>
+          <input type="text" 
+          name="First">
+          <label for="name">Last Name</label>
+          <input type="text" 
+          name="Last">
+          <label for="name">E-mail</label>
+          <input type="text" 
+          name="email@someguy.com">
+          <label for="name">Last Name</label>
+          <input type="text" 
+          name="Last">
+          <label for="name">Date of Birth</label>
+          <input type="text" 
+          name="mm/dd/yyyy">
+        </div>
+        <div class="">
+          <label for 
+        </div>
+
+    </body>
+</html>

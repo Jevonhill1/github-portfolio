@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto+Slab;
+}
+
+li {
+  list-style-type:none;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-size: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav li a {
+  color:white;
+  padding: 15px;
+  display: inline-block;
+}
+
+a {
+
+}
+
+nav li a:hover {
+  background-color: gray;
+  }
+
+  nav li a.active{
+  background-color:cornflowerblue;
+  }
+  nav li a {
+  }
